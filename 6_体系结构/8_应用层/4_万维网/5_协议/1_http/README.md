@@ -1,4 +1,4 @@
-##  超文本传送协议HTTP 
+##  超文本传送协议Hyper Text Transfer Protocol
 基于 TCP 和 CS
 实现万维网的 “链接”
 定义 客户端如何发送数据给 万维网的服务器
