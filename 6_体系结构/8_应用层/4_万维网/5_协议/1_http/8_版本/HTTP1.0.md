@@ -1,5 +1,8 @@
 ##  HTTP1.0
-performance is low than `http 1.1` 
-`client` only can send one `request` on one connection (after `server` receive `request` , `server` will close the connection)
+
+###   短链接
+链接后，收到请求，就立即断开链接
 
 
+###   性能
+比`http1.1` 低
